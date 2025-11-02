@@ -1,0 +1,11 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { JobpostsModule } from './modules/jobposts/jobposts.module';
+import { ApplicationsModule } from './modules/applications/applications.module';
+import { NotificationsModule } from './modules/notifications/notifications.module';
+import { PaymentsModule } from './modules/payments/payments.module';
+
+// Add to @Module imports array:
+// JobpostsModule,
+// ApplicationsModule,
+// NotificationsModule,
+// PaymentsModule
